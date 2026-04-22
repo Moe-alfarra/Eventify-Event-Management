@@ -18,6 +18,7 @@ Hosted on Vercel: [https://eventify-event-management.vercel.app](https://eventif
 
 ### Authentication & Security
 
+
 <img width="1907" height="911" alt="Eventify Login" src="https://github.com/user-attachments/assets/46289f93-8da2-4a9a-a7c0-fcc9db40c2fe" />
 
 * JWT-based authentication
@@ -29,7 +30,9 @@ Hosted on Vercel: [https://eventify-event-management.vercel.app](https://eventif
 
 ### Admin Dashboard
 
+
 <img width="1898" height="902" alt="Admni Dashboard" src="https://github.com/user-attachments/assets/93193c13-5e90-4def-abc7-411893640221" />
+
 
 * View platform statistics (users, events, registrations)
 * Create users (Admin, Organizer, Attendee)
@@ -43,7 +46,9 @@ Hosted on Vercel: [https://eventify-event-management.vercel.app](https://eventif
 
 ### Organizer Dashboard
 
+
 <img width="1903" height="908" alt="Organizer Dashboard" src="https://github.com/user-attachments/assets/982d460d-cc6c-4a6d-ab1e-fbac18a1ffac" />
+
 
 * Create events
 * Edit events with validation rules
@@ -57,7 +62,9 @@ Hosted on Vercel: [https://eventify-event-management.vercel.app](https://eventif
 
 ### Attendee Dashboard
 
+
 <img width="1902" height="908" alt="Attendee Dashboard" src="https://github.com/user-attachments/assets/aa775e41-115d-4e17-86d2-590131b13b72" />
+
 
 * Browse all events
 * Search, filter, and sort events
@@ -79,19 +86,20 @@ Hosted on Vercel: [https://eventify-event-management.vercel.app](https://eventif
 
 ### Backend
 
-* Java 22
+* Java
 * Spring Boot
 * Spring Security (JWT)
 * Hibernate / JPA
 
 ### Database
 
-* PostgreSQL (Neon)
+* PostgreSQL
 
 ### Deployment
 
 * Frontend: Vercel
 * Backend: Railway
+* Database: Neon
 
 ---
 
