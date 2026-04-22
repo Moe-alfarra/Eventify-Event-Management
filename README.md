@@ -169,6 +169,7 @@ npm run dev
 ## Author
 
 Mohammed Alfarra
+
 Computer Science Graduate – Florida International University
 
 ---
